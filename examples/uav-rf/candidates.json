@@ -1,0 +1,56 @@
+[
+  {
+    "paper_id": "10.1109/tdsc.2025.3594095",
+    "title": "Enhanced Two-Way Privacy-Preserving PHY-Layer Authentication for UAV-Assisted MIMO Systems",
+    "year": 2025,
+    "venue": "IEEE Transactions on Dependable and Secure Computing",
+    "abstract": "The paper targets privacy-preserving two-way physical-layer authentication in UAV-assisted MIMO systems. It extracts carrier frequency offset (CFO) via the MOOSE algorithm as a hardware fingerprint for UAV identity and uses CFO-derived parameters for ECC session-key agreement to encrypt data frames. Closed-form detection and false-alarm probabilities are derived. The available survey notes indicate numerical evaluation against prior baselines, without reporting real-world multi-receiver or cross-day captures.",
+    "abstract_kind": "English paraphrase of the survey abstract notes",
+    "source": "https://doi.org/10.1109/tdsc.2025.3594095"
+  },
+  {
+    "paper_id": "10.1109/tifs.2026.3734750",
+    "title": "Lightweight Memory Network for Drone Type RF Fingerprint Identification in Dynamic Environments",
+    "year": 2026,
+    "venue": "IEEE Transactions on Information Forensics and Security",
+    "abstract": "The paper studies drone RF fingerprint recognition under time-varying propagation and obstruction. It combines multiscale spectrogram features and channel/spatial attention with global and local feature paths, trainable memory, and gated fusion. The authors report 95.16% mean accuracy on a collected dataset of nine drone categories. The available abstract does not establish whether the evaluation distinguishes transmitters within the same drone model.",
+    "abstract_kind": "English paraphrase of the survey abstract notes",
+    "source": "https://doi.org/10.1109/tifs.2026.3734750"
+  },
+  {
+    "paper_id": "10.1109/jsac.2026.3669136",
+    "title": "Multi-Domain Supervised Contrastive Learning for UAV Radio-Frequency Open-Set Recognition",
+    "year": 2026,
+    "venue": "IEEE Journal on Selected Areas in Communications",
+    "abstract": "Open-RFNet combines texture and time-frequency features with supervised contrastive learning and a modified OpenMax. The authors evaluate known-type recognition and unknown rejection across 25 drone types. They report 95.12% closed-set accuracy and 96.08% open-set accuracy in their setup. The procedure includes retraining the classification layer using unknown samples.",
+    "abstract_kind": "English paraphrase of the survey abstract notes",
+    "source": "https://doi.org/10.1109/jsac.2026.3669136"
+  },
+  {
+    "paper_id": "10.1109/tmc.2026.3666235",
+    "title": "mmE-Loc: Facilitating Accurate Drone Landing With Ultra-High-Frequency Localization",
+    "year": 2026,
+    "venue": "IEEE Transactions on Mobile Computing",
+    "abstract": "The system fuses ground-based event-camera streams and millimeter-wave radar measurements to estimate a descending drone's position during landing, reporting 0.083 m localization precision and 5.12 ms end-to-end latency. Its output is spatial location for landing guidance rather than emitter identity.",
+    "abstract_kind": "English paraphrase of the survey abstract notes",
+    "source": "https://doi.org/10.1109/tmc.2026.3666235"
+  },
+  {
+    "paper_id": "10.1145/3658644.3690324",
+    "title": "CAPSID: A Private Session ID System for Small UAVs",
+    "year": 2024,
+    "venue": "ACM Conference on Computer and Communications Security",
+    "abstract": "Addressing privacy tracking risks in broadcast Remote ID regulations for small UAVs, the paper designs a cryptographic session-identifier protocol that lets authorized receivers validate UAV broadcasts without exposing persistent operator serial numbers. The contribution is protocol-level identity privacy rather than physical-layer RF sensing or hardware fingerprinting.",
+    "abstract_kind": "English paraphrase of the survey abstract notes",
+    "source": "https://doi.org/10.1145/3658644.3690324"
+  },
+  {
+    "paper_id": "10.1145/3664647.3681686",
+    "title": "OSNeRF: On-demand Semantic Neural Radiance Fields for Fast and Robust 3D Object Reconstruction",
+    "year": 2024,
+    "venue": "ACM International Conference on Multimedia",
+    "abstract": "The paper improves Neural Radiance Fields (NeRF) for fast 3D semantic object reconstruction from multi-view RGB images. Despite matching the substring RF in NeRF, it contains no radio-frequency sensing, wireless signal processing, or UAV identification task.",
+    "abstract_kind": "English paraphrase of the survey abstract notes",
+    "source": "https://doi.org/10.1145/3664647.3681686"
+  }
+]

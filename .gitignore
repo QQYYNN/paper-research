@@ -1,0 +1,19 @@
+# Python and virtual environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Local configuration
+.env
+.env.*
+*.pem
+*.key
+
+# Local literature materials and generated output
+/local/
+/output/
+/papers.json
+/candidates.json
+*.pdf
+.DS_Store

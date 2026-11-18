@@ -1,0 +1,14 @@
+[
+  {
+    "paper_id": "example-device",
+    "title": "Example device identification across recording days",
+    "abstract": "This fictional example identifies individual emitters using received RF signals. The training and test recordings come from different days.",
+    "source": "Synthetic example"
+  },
+  {
+    "paper_id": "example-type",
+    "title": "Example aircraft type classification from images",
+    "abstract": "This fictional example classifies aircraft types using RGB images.",
+    "source": "Synthetic example"
+  }
+]
